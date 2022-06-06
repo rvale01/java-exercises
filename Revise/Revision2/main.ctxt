@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ main\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=mountainBikes\ racerBikes
+comment10.target=void\ callSpeedUp(MountainBikes[],\ RacerBikes[])
+comment2.params=mountainBikes
+comment2.target=MountainBikes[]\ addMB(MountainBikes[])
+comment3.params=racerBikes
+comment3.target=RacerBikes[]\ addRB(RacerBikes[])
+comment4.params=racerBikes\ mountainBikes
+comment4.target=void\ display(RacerBikes[],\ MountainBikes[])
+comment5.params=racerBikes\ mountainBikes
+comment5.target=void\ display2(RacerBikes[],\ MountainBikes[])
+comment6.params=mountainBikes
+comment6.target=MountainBikes[]\ editMB(MountainBikes[])
+comment7.params=racerBikes
+comment7.target=RacerBikes[]\ editRB(RacerBikes[])
+comment8.params=mountainBikes\ racerBikes
+comment8.target=int\ search(MountainBikes[],\ RacerBikes[])
+comment9.params=mountainBikes\ racerBikes
+comment9.target=void\ callApplyBrakes(MountainBikes[],\ RacerBikes[])
+numComments=11

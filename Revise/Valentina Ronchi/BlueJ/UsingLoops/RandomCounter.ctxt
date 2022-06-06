@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RandomCounter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RandomCounter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \ Write\ a\ program\ that\ generates\ two\ random\ numbers\ between\ 1\ and\ 6.\r\n\ \ \r\n\ \ START\ LOOP\r\n\ \ \ \ \ \ GENERATE\ RANDOM\ NUM\ 1-6\r\n\ \ \ \ \ \ OUTPUT\ NUM\r\n\ \ REPEAT\ LOOP\r\n\ \ \r\n\ \ Change\ your\ program\ so\ that\ it\ output\ the\ two\ random\ number\ 5\ times\r\n\ \ then\ count\ how\ many\ times\ the\ total\ of\ the\ two\ numbers\ was\ above\ 5\r\n\ \ \r\n\ \ START\ LOOP1\r\n\ \ \ \ \ \ START\ LOOP2\r\n\ \ \ \ \ \ \ \ \ \ GENERATE\ RANDOM\ NUM\ 1-6\r\n\ \ \ \ \ \ \ \ \ \ OUTPUT\ NUM\r\n\ \ \ \ \ \ \ \ \ \ ADD\ NUM\ TO\ TOTAL\r\n\ \ \ \ \ \ \ \ \ \ REPEAT\ LOOP2\r\n\ \ \ \ \ \ OUTPUT\ TOTAL\r\n\ REPEAT\ LOOP2\ 5\ TIMES\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

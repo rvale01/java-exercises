@@ -1,0 +1,37 @@
+
+
+
+--Sales n.1-- 
+Id: 1234
+Type: villa
+Address: triq
+Price: 23000.0
+
+
+
+--Sales n.2-- 
+Id: 230948
+Type: apartr
+Address: bho
+Price: 89000.0
+
+
+
+--Rent n.1-- 
+Id: 3526217
+Type: maisonette
+Address: chambray
+Monthly rent: 340.0
+
+
+
+
+--Rent n.2-- 
+Id: 8466
+Type: villa
+Address: pool
+Monthly rent: 500.0
+
+
+
+

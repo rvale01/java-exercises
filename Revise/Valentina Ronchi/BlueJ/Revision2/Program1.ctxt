@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Find\ the\ power\ of\ a\ given\ number.\r\n\ ask\ the\ user\ to\ enter\ two\ number\ and\ find\ the\ power.\r\n\ Check\ if\ the\ answer\ is\ between\ 100\ and\ 150,\ between\ 151\ and\ 200\ or\ above\ 200.\r\n\ add\ validation\ so\ that\ the\ base\ number\ cannot\ be\ 0;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

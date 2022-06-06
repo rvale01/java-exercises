@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Example2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Example2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ write\ a\ programm\ for\ an\ account.\ This\ bank\ has\ three\ types\ of\ accounts.\ Each\ with\ different\ interest\ rate.\r\n\ Account\ 1\:\ 8%\r\n\ Account\ 2\:\ 4%\r\n\ Account\ 3\:\ 9%\r\n\ Create\ three\ instances\ in\ the\ main\ \r\n\ Add\ an\ attrb.\ to\ show\ the\ name\ of\ the\ account;\ Add\ a\ method\ in\ the\ superclass\ called\ return\ Account\ name.\ \r\n\ Override\ this\ method\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

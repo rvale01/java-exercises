@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Program3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program3\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ Create\ a\ program\ that\ fills\ an\ array\ with\ numbers,\ the\ use\ a\ method\ to\ display\ its\ content.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ displayArray(int[])
+comment3.params=arr\ search
+comment3.target=void\ searchArray(int[],\ int)
+comment4.params=arr\ ch
+comment4.target=void\ convertArray(int[],\ char[])
+comment5.params=ch
+comment5.target=void\ displayChar(char[])
+numComments=6

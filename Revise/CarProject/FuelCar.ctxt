@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=FuelCar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FuelCar\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FuelCar()
+comment2.params=model\ make\ id\ fuelLevel
+comment2.target=FuelCar(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=fuelLevel
+comment3.target=void\ setFuelLevel(int)
+comment4.params=
+comment4.target=int\ getFuelLevel()
+comment5.params=
+comment5.target=void\ drive()
+comment6.params=
+comment6.target=void\ fillFuel()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

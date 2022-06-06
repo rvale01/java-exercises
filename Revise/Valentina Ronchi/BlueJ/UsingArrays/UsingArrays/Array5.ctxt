@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Array5
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Array5\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Create\ a\ program\ that\ uses\ a\ menu\ with\ the\ following\ options\:\r\n\ 1.\ Set\ size\ of\ array\r\n\ 2a.\ Set\ range\ of\ values\r\n\ 2b.\ generated\r\n\ 3.\ Display\ the\ content\ of\ the\ Array\r\n\ 4.\ Search\r\n\ 5.\ Quit\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

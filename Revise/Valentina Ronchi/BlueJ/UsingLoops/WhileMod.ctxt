@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WhileMod
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WhileMod\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ write\ a\ program\ that\ generates\ random\ numbers\ in\ the\ range\ of\ 0\ and\ 2000.\r\n\ The\ program\ will\ stop\ if\ the\ generated\ number\ is\ even\ (number\ mod\ 2)\r\n\ also\ output\ the\ list\ of\ generated\ numbers\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

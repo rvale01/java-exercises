@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=list\ from\ to
+comment1.target=void\ sortSale(java.util.ArrayList,\ int,\ int)
+comment2.params=list\ from\ to
+comment2.target=void\ sortRent(java.util.ArrayList,\ int,\ int)
+comment3.params=list\ from\ to
+comment3.target=void\ sortShortRent(java.util.ArrayList,\ int,\ int)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Array2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Array2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ write\ a\ program\ that\ has\ a\ list\ of\ products\ together\ with\ their\ price.\r\n\ need\ two\ array\ ,\ one\ for\ names\ and\ other\ for\ prices.\r\n\ The\ user\ will\ choice\ the\ size\ of\ the\ array;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

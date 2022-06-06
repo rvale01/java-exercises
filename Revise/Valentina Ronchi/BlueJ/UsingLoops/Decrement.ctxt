@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Decrement
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Decrement\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ output\ a\ list\ of\ numbers\ in\ the\ range\ given\ by\ the\ user.\r\n\ use\ a\ for\ loop.\ Eg.\ if\ the\ user\ enter\ 2\ and\ 20,\ output\ the\ values\ from\ 20\r\n\ to\ 2.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

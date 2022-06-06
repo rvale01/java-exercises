@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UsingCar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ First\:\ Door\ 5,\ bhp\ 90;\ brand\ VW,\ engine\ 1.4,\ ac\ Yes\r\nSecond\:\ AC\ no;\ doors\ 3,\ bhp200;\ brand\ fiat,\ engine\ 2.0\r\nThird\:\ AC\ yes;\ doors\ 5\ bhp\ 190,\ mercedes,\ engine\ 4.0\r\n\r\nhw.\ Create\ a\ class\ called\ computer\ with\ the\ following\ attributes\ \r\n\ double\ CPU,\ int\ RAM,\ int\ Hard\ disk\ size,\ String\ Hard\ disk\ type\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ carClass\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ in\ the\ main\ create\ three\ object\ with\ the\ following\ informations\:\r\n\r\n\ \r\n
+comment1.params=doorsIn
+comment1.target=void\ setDoors(int)
+comment10.params=
+comment10.target=boolean\ getAc()
+comment2.params=
+comment2.target=int\ getDoors()
+comment3.params=bhpIn
+comment3.target=void\ setBhp(int)
+comment4.params=
+comment4.target=int\ getBhp()
+comment5.params=brandIn
+comment5.target=void\ setBrand(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getBrand()
+comment7.params=engineIn
+comment7.target=void\ setEngine(double)
+comment8.params=
+comment8.target=double\ getEngine()
+comment9.params=acIn
+comment9.target=void\ setAc(boolean)
+numComments=11

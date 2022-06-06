@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Bikes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ bikes\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Bikes()
+comment10.params=decrement
+comment10.target=void\ applyBrake(int)
+comment11.params=increment
+comment11.target=void\ speedUp\u0000(int)
+comment2.params=frameNumber\ gear\ speed
+comment2.target=Bikes(int,\ int,\ double)
+comment3.params=frameNumber
+comment3.target=void\ setFrameNumber(int)
+comment4.params=gear
+comment4.target=void\ setGear(int)
+comment5.params=speed
+comment5.target=void\ setSpeed(double)
+comment6.params=
+comment6.target=double\ getSpeed()
+comment7.params=
+comment7.target=int\ getGear()
+comment8.params=
+comment8.target=int\ getFrameNumber()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

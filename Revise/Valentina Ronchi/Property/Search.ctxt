@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Search
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Search\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arr\ value
+comment1.target=int\ searchIdSale(java.util.ArrayList,\ int)
+comment2.params=arr\ type
+comment2.target=java.util.ArrayList\ searchByType(java.util.ArrayList,\ java.lang.String)
+numComments=3

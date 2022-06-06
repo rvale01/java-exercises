@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Array1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Array1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ write\ a\ program\ that\ fills\ an\ array\ with\ 10\ value\ and\ then\ prints\ them.\r\n\ The\ user\ must\ enters\ the\ values\ and\ format\ your\ output\ sh\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Example1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Example1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ create\ a\ program\ that\ uses\ an\ ArrayList\ of\ type\ String\ to\ store\ car\ names\r\n\ methids\:\ add,\ add\ at\ specific\ pos,\ replace\ a\ value,\ remove\ a\ value\ using\ index\ and\ value,\ size\ of\ ArrayList,\ \r\n\ find\ the\ position\ of\ a\ value\ and\ the\ clear\ method.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=cars
+comment10.target=java.util.ArrayList\ sort(java.util.ArrayList)
+comment11.params=cars
+comment11.target=void\ display(java.util.ArrayList)
+comment2.params=cars
+comment2.target=java.util.ArrayList\ add(java.util.ArrayList)
+comment3.params=cars
+comment3.target=java.util.ArrayList\ addAtIndex(java.util.ArrayList)
+comment4.params=cars
+comment4.target=java.util.ArrayList\ replace(java.util.ArrayList)
+comment5.params=cars
+comment5.target=java.util.ArrayList\ remove(java.util.ArrayList)
+comment6.params=cars
+comment6.target=java.util.ArrayList\ removeIndex(java.util.ArrayList)
+comment7.params=cars
+comment7.target=void\ size(java.util.ArrayList)
+comment8.params=cars
+comment8.target=void\ index(java.util.ArrayList)
+comment9.params=cars
+comment9.target=void\ partItem(java.util.ArrayList)
+numComments=12

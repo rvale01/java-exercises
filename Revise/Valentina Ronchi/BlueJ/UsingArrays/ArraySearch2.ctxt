@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArraySearch2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArraySearch2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ fill\ an\ array\ of\ seven\ names,\ display\ its\ content,\ ask\ the\ user\ for\ a\ name\ and\ output\ it\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

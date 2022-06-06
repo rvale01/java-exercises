@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Program4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program4\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ ask\ for\ three\ names,\ then\ ask\ for\ an\ index\ value.\r\n\ Save\ the\ names\ in\ an\ array\ and\ use\ a\ method\ to\ output\ the\ name\ at\ that\ position\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name\ pos
+comment2.target=void\ displayPos(java.lang.String[],\ int)
+numComments=3

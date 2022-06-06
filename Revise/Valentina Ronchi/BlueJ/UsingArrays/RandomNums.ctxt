@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RandomNums
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RandomNums\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Fill\ an\ array\ with\ random\ numbers\ in\ the\ range\ of\ 0\ to\ 5000\r\n\ The\ size\ of\ the\ array\ has\ to\ be\ 10,000.\ Output\ the\ conten\ of\ the\ array.\ Output\ the\ total\ and\ the\ average.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

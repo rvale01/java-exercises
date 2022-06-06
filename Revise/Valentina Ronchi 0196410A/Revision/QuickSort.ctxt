@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ QuickSort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arr\ low\ high
+comment1.target=int\ partition(java.util.ArrayList,\ int,\ int)
+comment2.params=arr\ low\ high
+comment2.target=void\ sort(java.util.ArrayList,\ int,\ int)
+comment2.text=\ The\ main\ function\ that\ implements\ QuickSort()\ \r\n\ \ \ \ \ \ arr[]\ -->\ Array\ to\ be\ sorted,\ \r\n\ \ \ \ \ \ low\ \ -->\ Starting\ index,\ \r\nhigh\ \ -->\ Ending\ index
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RacerBikes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RacerBikes\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RacerBikes()
+comment2.params=frameNumber\ gear\ speed\ handleHeight
+comment2.target=RacerBikes(int,\ int,\ double,\ double)
+comment3.params=handleHeight
+comment3.target=void\ setHandleHeight(double)
+comment4.params=
+comment4.target=double\ getHandleheight()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

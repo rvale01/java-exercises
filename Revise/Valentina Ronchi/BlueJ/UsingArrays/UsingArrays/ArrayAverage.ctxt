@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrayAverage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayAverage\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Create\ a\ program\ that\ calculates\ the\ average\ in\ the\ list.\ The\ user\ has\ to\ input\ the\ list.\ The\ user\ decide\ the\ array\ size.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

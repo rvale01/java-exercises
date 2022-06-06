@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Program7
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program7\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Use\ two\ methods\ to\ find\ the\ surface\ area\ of\ a\ bathroom\r\n\ h*l*4\r\n\ l*w\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=double\ sumArea()
+comment3.params=price
+comment3.target=double\ sumArea(double)
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Program8
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Program8\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ A\ grocery\ store\ needs\ to\ comuterize\ the\ system\ with\ the\ following\ options\:\r\n\ 1.\ Display\ a\ list\ of\ available\ items\ (5\ or\ six\ items\ in\ an\ array)\ and\ their\ price.(2\ arrays)\r\n\ 2.\ Choose\ your\ item\ to\ buy\ the\ user\ will\ only\ be\ able\ to\ choose\ 1\ item\ and\ ask\ for\ quantity\r\n\ 3.\ Display\ the\ total\r\n\ 4.\ Display\ the\ discount(5%)\r\n\ 5.\ Exit\r\n\ All\ oprions\ must\ be\ in\ a\ method\ with\ a\ return\ and\ parameters;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=items\ price
+comment2.target=void\ displayItems(java.lang.String[],\ double[])
+comment3.params=choice
+comment3.target=int\ quantity(int)
+comment4.params=choice\ price\ quantity
+comment4.target=double\ total(int,\ double[],\ double)
+comment5.params=total
+comment5.target=double\ discount(double)
+numComments=6
